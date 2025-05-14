@@ -124,7 +124,7 @@ Right aligned columns
 
 ## Links
 
-[link text](http://dev.nodeca.com)
+[link text](CAM.html)
 
 [link with title](http://nodeca.github.io/pica/demo/ "title text!")
 
